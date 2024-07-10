@@ -1,0 +1,16 @@
+Classe Str é uma String mutável. Semelhante à implementação interna da classe String.
+1. Criar o package isel.poo;
+2. Criar a classe TestStr;
+3. Criar um objecto Str;
+4. Definir um método não estático append(char);
+5. Definir o construtor Str(String);
+- O construtor não tem tipo de return;
+6. Não é necessário declarar o construtor sem parâmetros, a não ser que se defina um construtor com outra assinatura, nesse caso já é necessário criar o constutor sem parâmetros;
+7. Implicitamente Str deriva de Object (public class Str extends Object {) não é necessário especificar;
+8. Criar array de chars para construir a String;
+9. Fazer print do objecto Str criado. É preciso definir o método toString();
+10. Fazer o método append(c);
+12. Acrescentar append(c) de 20 maiúsculas à Str;
+13. Alterar o array para aceitar 30 maiúsculas (não dar ArrayIndexOutOfBounds Exception);
+14. Fazer append(String s);
+15.   
